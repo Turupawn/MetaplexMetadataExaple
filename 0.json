@@ -1,0 +1,50 @@
+{
+  "name": "Mi NFT #0",
+  "symbol": "",
+  "description": "NFT Description.",
+  "seller_fee_basis_points": 250,
+  "image": "image.png",
+  "animation_url": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "web",
+      "value": "yes"
+    },
+    {
+      "trait_type": "mobile",
+      "value": "yes"
+   },
+   {
+      "trait_type": "extension",
+      "value": "yes"
+   },
+   {
+      "trait_type": "Eyes",
+      "value": "Big"
+   },
+   {
+      "trait_type": "Color",
+      "value": "Red"
+   }
+  ],
+  "collection": {
+     "name": "Mi Colección",
+     "family": "Mi Familia" 
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "76ArC667SfU2iBFvV2ECLh5Fo69qfeSSBDejfzP4jwpR",
+        "share": 100
+      }
+    ]
+  }
+}
